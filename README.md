@@ -1,11 +1,3 @@
-Here’s a **clean, professional `README.md`** you can place inside your **Java Projects folder**.
-It’s written in a **beginner-friendly + recruiter-friendly** style, suitable for **GitHub**.
-
-You can copy-paste this directly 👇
-
----
-
-````md
 # ☕ Java Projects Repository
 
 This repository contains **Java projects** that I built while learning **Core Java** and strengthening my **problem-solving skills**.
@@ -20,24 +12,6 @@ Each project focuses on applying Java fundamentals such as:
 - Built-in Java Classes
 
 ---
-
-## 📁 Repository Structure
-
-```text
-java-projects/
-│
-├── Project-1/
-│   ├── src/
-│   ├── README.md
-│   └── Main.java
-│
-├── Project-2/
-│   ├── src/
-│   ├── README.md
-│   └── Main.java
-│
-└── README.md   ← (This file)
-````
 
 Each **project folder** contains:
 
@@ -82,7 +56,6 @@ java-projects/
 └── README.md   ← (This file)
 > 📌 Projects are added **Weekly** as part of my Java learning journey.
 ```
-
 ---
 
 ## 🛠️ Tools & Technologies
